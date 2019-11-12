@@ -1,0 +1,11 @@
+MasterCard Decision Management Program Coding Exercise
+
+The solution prints out all permutations of a string.
+
+build and test solution.
+
+`./build.sh`
+
+run solution.
+
+`./run.sh <input_str>`
